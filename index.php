@@ -14,4 +14,4 @@
 define('WP_DEFAULT_THEME', 'mytheme');
 
 /** Loads the WordPress Environment and Template */
-require( dirname( __FILE__ ) . '/wp/wp-blog-header.php' );
+require( dirname( __FILE__ ) . '/public/wp/wp-blog-header.php' );
